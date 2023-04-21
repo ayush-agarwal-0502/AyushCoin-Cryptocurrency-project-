@@ -1,5 +1,5 @@
 # AyushCoin-Cryptocurrency-project-
-Made my own cryptocurrency (AyushCoin (AYC)) using solidity over etherneum 
+Made my own cryptocurrency (AyushCoin (AYC)) using solidity over etherneum , using the ERC20 standard contract imported from OpenZeppelin
 
 Smart Contract address on sepolia test network - 0x43ED911Fab77D9D6f2F23C2c891aecA18E0e1eCE
 
